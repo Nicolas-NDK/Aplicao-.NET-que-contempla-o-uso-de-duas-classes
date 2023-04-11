@@ -1,0 +1,15 @@
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.csproj.AssemblyReference.cache
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.AssemblyInfoInputs.cache
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.AssemblyInfo.cs
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.csproj.CoreCompileInputs.cache
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\bin\Debug\net6.0\AVD 1 POO.exe
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\bin\Debug\net6.0\AVD 1 POO.deps.json
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\bin\Debug\net6.0\AVD 1 POO.runtimeconfig.json
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\bin\Debug\net6.0\AVD 1 POO.dll
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\bin\Debug\net6.0\AVD 1 POO.pdb
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.dll
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\refint\AVD 1 POO.dll
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.pdb
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\AVD 1 POO.genruntimeconfig.cache
+C:\Users\nickq\source\repos\AVD 1 POO\AVD 1 POO\obj\Debug\net6.0\ref\AVD 1 POO.dll
